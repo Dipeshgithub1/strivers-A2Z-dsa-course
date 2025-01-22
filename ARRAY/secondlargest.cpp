@@ -3,6 +3,7 @@
 #include <algorithm>
 using namespace std;
 
+//complexity = (n*logn + n) = O(n*logn)
 int getSecondLarge(vector<int> &arr){
     int n = arr.size();
     

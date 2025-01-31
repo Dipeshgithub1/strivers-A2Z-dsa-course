@@ -1,2 +1,6 @@
 # strivers-A2Z-dsa-course
-- diip
+- ARRAY
+- STRING
+- LINKED LIST
+- RECURSION
+- BIT MANUPULATION

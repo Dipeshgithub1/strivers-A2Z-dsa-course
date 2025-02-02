@@ -1,10 +1,8 @@
 # Striver's A2Z DSA Course
-
 ## Overview
 This repository contains concise notes and important problem-solving techniques for Striver's A2Z DSA Course. It covers fundamental to advanced data structures and algorithms with key concepts, implementations, and optimized approaches.
 
 ## Topics Covered
-
 ### 1. Array
 - Basics & Types (1D, 2D, Dynamic Array)
 - Common Operations (Traversal, Insertion, Deletion, Searching)

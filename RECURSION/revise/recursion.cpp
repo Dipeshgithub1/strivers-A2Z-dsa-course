@@ -1,4 +1,4 @@
-#include<iostream>
+#include <bits/stdc++.h>
 using namespace std;
 /*
 int sum(int n){
@@ -55,7 +55,7 @@ int main(){
     printFun(test);
 
  }
-    */
+    
 
 int fibo(int n){
     //base case
@@ -77,3 +77,28 @@ int fibo(int n){
     }
 
  }   
+
+*/
+
+int factorialRecursion(int n){
+    if(n==0){
+        return 1;
+    }
+    return n * factorialRecursion(n-1);
+}
+// iteration
+int factorialIteration(int n){
+    int res = 1,i;
+    
+    for(i=2;i<=n;i++)
+    res *= i;
+    return res;
+}
+
+int main() {
+    int num =5;
+    cout<<"Fcatorial of " << num <<"using Recursion : "<< factorialRecursion(5) << endl;
+    cout<<"Factorial of " << num << "using Iterartion is : " << factorialIteration(5);
+
+    return 0;
+}

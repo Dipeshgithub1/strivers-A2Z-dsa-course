@@ -1,5 +1,7 @@
 # Striver's A2Z DSA Course
+
 ## Overview
+
 This repository contains concise notes and important problem-solving techniques for Striver's A2Z DSA Course. It covers fundamental to advanced data structures and algorithms with key concepts, implementations, and optimized approaches.
 
 ## Topics Covered
@@ -7,7 +9,7 @@ This repository contains concise notes and important problem-solving techniques 
 - Basics & Types (1D, 2D, Dynamic Array)
 - Common Operations (Traversal, Insertion, Deletion, Searching)
 - Important Algorithms:
-  - Kadane’s Algorithm (Maximum Subarray Sum)
+  - Kadane’s Algorithm (Maximum Subarray Sum)A
   - Two Pointer Approach
   - Sliding Window Technique
   - Sorting Algorithms

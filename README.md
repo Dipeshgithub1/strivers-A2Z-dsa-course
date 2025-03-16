@@ -24,8 +24,10 @@ This repository contains concise notes and important problem-solving techniques 
   - Z Algorithm (Pattern Matching)
   - Manacher’s Algorithm (Longest Palindromic Substring)
   - Trie Data Structure
+  - 
 
 ### 3. Linked List
+
 - Types (Singly, Doubly, Circular)
 - Operations (Insertion, Deletion, Searching)
 - Key Concepts:
